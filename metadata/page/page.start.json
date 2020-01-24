@@ -3,9 +3,14 @@
   "_type": "page.start",
   "heading": "Component - File Upload",
   "steps": [
-    "page.file-upload",
-    "page.check-answers",
-    "page.confirmation"
+    "page.fileupload-first",
+    "page.fileupload-second",
+    "page.fileupload-third",
+    "page.fileupload-fourth",
+    "page.fileupload-fifth",
+    "page.fileupload-sixth",
+    "page.fileupload-summary",
+    "page.fileupload-confirmation"
   ],
   "url": "/"
 }
